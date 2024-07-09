@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ....
-- 🌱 I’m currently learning Data Analysis
+- 🔭 I’m currently working on Solana API
+- 🌱 I’m currently learning Data Analysis and Blockchain tech.
 - 👯 I’m looking to collaborate on kaggle
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python 
