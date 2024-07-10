@@ -13,7 +13,7 @@
 </a>
 <hr />
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ultrasage-danz&show_icons=true&theme=radical&langs_count=4&card_width=800" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ultrasage-danz&show_icons=true&theme=radical&langs_count=5&card_width=800" />
 </a>
 
 <!--
