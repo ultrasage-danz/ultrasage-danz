@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Solana API
-- 🌱 I’m currently learning Data Analysis and Blockchain tech.
-- 👯 I’m looking to collaborate on kaggle
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Solana API and sckit-learn open source
+- 🌱 I’m currently learning Data Analysis, Blockchain tech and Machine lesrning
+- 👯 I’m looking to collaborate on all my projects
+- 🤔 I’m looking for help with Open-source 
 - 💬 Ask me about Python 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
