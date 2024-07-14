@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Solana API and sckit-learn open source
+- 🔭 I’m currently working on Solana Bots and sckit-learn open source
 - 🌱 I’m currently learning Data Analysis, Blockchain tech and Machine lesrning
 - 👯 I’m looking to collaborate on all my projects
 - 🤔 I’m looking for help with Open-source 
