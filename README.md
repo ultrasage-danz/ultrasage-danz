@@ -11,7 +11,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ultrasage-danz&show_icons=true&theme=radical" />
 </a>
-<hr />
+https://www.credly.com/badges/a9a6994a-6010-4a89-bca1-18aca0ef22bc/public_url
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ultrasage-danz&show_icons=true&theme=radical&langs_count=7&card_width=800" />
 </a>
