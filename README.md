@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on anything python and web.
 - 🤔 I’m looking for help with Open-source projects for beginners and intermediates.
 - 💬 Ask me about Python.
-- 👨‍💻 Check this link for Master ML course with scikit-learn: https://courses.dataschool.io/master-machine-learning-with-scikit-learn/vb6ld.
+- 👨‍💻 Checkout this Master ML course with scikit-learn: https://courses.dataschool.io/master-machine-learning-with-scikit-learn/vb6ld.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultrasage-danz&show_icons=true&theme=radical)
 
