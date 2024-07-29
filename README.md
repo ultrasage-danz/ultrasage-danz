@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Solana Bots and Webflow.
-- 🌱 I’m currently learning Data Analysis, Blockchain tech , Machine learning and Google Cloud.
-- 👯 I’m looking to collaborate on anything python and web.
+- 🔭 I’m currently working on Solana Bots and Webflow
+- 🌱 I’m currently learning Data Analysis, Blockchain tech , Machine learning and Google Cloud
+- 👯 I’m looking to collaborate on anything python and web
 - 🤔 I’m looking for help with Open-source projects for beginners and intermediates.
 - 💬 Ask me about Python.
 - 👨‍💻 Checkout this Master ML course with scikit-learn: https://courses.dataschool.io/master-machine-learning-with-scikit-learn/vb6ld.
