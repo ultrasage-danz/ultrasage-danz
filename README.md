@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on LLMs.
-- 🌱 I’m currently learning Data Analysis, Blockchain tech , Machine learning and Google Cloud
+<!-- - 🔭 I’m currently working on LLMs. -->
+- 🌱 I’m currently in a Chainlink CCIP Bootcamp and Algorand Intermediate Bootcamp
 - 👯 I’m looking to collaborate on anything python and web
 - 🤔 I’m looking for help with Open-source projects for beginners and intermediates.
 - 💬 Ask me about Python.
