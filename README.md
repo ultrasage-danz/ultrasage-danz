@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on LLMs. -->
 - 🌱 I’m currently in a Chainlink CCIP Bootcamp and Algorand Intermediate Bootcamp
-- 👯 I’m looking to collaborate on anything python and web
+- 👯 I’m looking to collaborate on anything python, web and blockchain
 - 🤔 I’m looking for help with Open-source projects for beginners and intermediates.
 - 💬 Ask me about Python.
 - 👨‍💻 Checkout this Master ML course with scikit-learn: https://courses.dataschool.io/master-machine-learning-with-scikit-learn/vb6ld.
