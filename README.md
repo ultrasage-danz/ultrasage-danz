@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultrasage-danz&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrasage-danz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrasage-danz&layout=compact&theme=radical).
 
 <!--<hr />
 <a href="https://github.com/anuraghazra/github-readme-stats">
