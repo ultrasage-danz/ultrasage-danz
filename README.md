@@ -8,7 +8,7 @@
 
 - I’m currently working on numerous **Hackathons**.
 
-- I’m currently learning **🌱Rust**
+- I’m currently learning **🌱Rust** and **Raspberry pi**
 
 <!--- I collaborated on [👯Doc. Mgt👯](https://github.com/ehis0075/Doc-mgt-system) & [🔭Task Hub🔭](https://github.com/02Herotech/Service-Market-Place) -->
 
