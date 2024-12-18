@@ -10,7 +10,7 @@
 
 - I’m currently learning **Rust** and **Raspberry pi**
 
-<!--- I collaborated on [👯Doc. Mgt👯](https://github.com/ehis0075/Doc-mgt-system) & [🔭Task Hub🔭](https://github.com/02Herotech/Service-Market-Place) -->
+- I collaborated on [👯Ansible👯](https://github.com/ehis0075/Doc-mgt-system) & [🔭hacksider🔭](https://github.com/02Herotech/Service-Market-Place) -->
 
 - Checkout this Master ML course with scikit-learn: https://courses.dataschool.io/master-machine-learning-with-scikit-learn/vb6ld.
 
