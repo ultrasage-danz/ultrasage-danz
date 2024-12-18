@@ -10,7 +10,7 @@
 
 - I’m currently learning **Rust** and **Raspberry pi**
 
-- I collaborated on [👯Ansible👯](https://github.com/ansible/ansible) & [🔭hacksider🔭](https://github.com/hacksider/Deep-Live-Cam)
+- I collaborated on [👯Ansible](https://github.com/ansible/ansible) & [Deep Live Cam🔭](https://github.com/hacksider/Deep-Live-Cam)
 
 - Checkout this Master ML course with scikit-learn: https://courses.dataschool.io/master-machine-learning-with-scikit-learn/vb6ld.
 
